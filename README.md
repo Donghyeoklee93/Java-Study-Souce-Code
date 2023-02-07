@@ -1,1 +1,1 @@
-# Java-Study-Souce-Code
+# These are source codes related to java.
